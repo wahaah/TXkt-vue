@@ -1,0 +1,14 @@
+{
+    "data":[
+        {"id": 100, "name": "热门", "channel_count": "97"},
+        {"id": 0, "name": "全部", "channel_count": "2553"},
+        {"id": 1, "name": "动漫", "channel_count": "201"},
+        {"id": 2, "name": "游戏", "channel_count": "462"},
+        {"id": 3, "name": "电竞", "channel_count": "52"},
+        {"id": 4, "name": "鬼畜", "channel_count": "51"},
+        {"id": 5, "name": "时尚", "channel_count": "45"},
+        {"id": 6, "name": "音乐", "channel_count": "149"},
+        {"id": 7, "name": "科技", "channel_count": "47"}
+    ]
+
+}
